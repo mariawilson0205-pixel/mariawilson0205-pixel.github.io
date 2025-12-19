@@ -3,9 +3,9 @@
 This page lists the official signed file fingerprints (SHA-256) for this work.
 
 ## Author key
-**Pen name:** Niw
-**PGP fingerprint:** `0797626D422661BC29E1EE794FFE36D44F92FE84`  
-Public key: [publickey.asc](/publickey.asc)
+- **Pen name:** Niw
+- **PGP fingerprint:** `0797626D422661BC29E1EE794FFE36D44F92FE84`  
+- Public key: [publickey.asc](/publickey.asc)
 
 ## Verified editions
 
