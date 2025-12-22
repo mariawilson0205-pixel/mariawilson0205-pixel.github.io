@@ -4,7 +4,7 @@ This site lists official verification pages for my works.
 
 ## Official author key
 - **Pen name:** Niw
-- **PGP fingerprint:** 0797626D422661BC29E1EE794FFE36D44F92FE84
+- **PGP fingerprint:** '0797626D422661BC29E1EE794FFE36D44F92FE84'
 - Download my public key: [**publickey.asc**](https://mariawilson0205-pixel.github.io/publickey.asc)
 
 ## Works
