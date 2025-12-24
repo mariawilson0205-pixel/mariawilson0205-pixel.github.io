@@ -10,8 +10,8 @@ This page lists the official signed file fingerprints (SHA-256) for this work.
 ## Verified editions
 
 ### Edition 1.0 (PDF)
-- **File name:** Pursuers & Coveteds [ENGLISH, PART 1].pdf
-- **SHA-256:** `PASTE SHA-256 HERE`
+- **File name:** Pursuers & Coveteds [ENGLISH, PART 1] Edition 1.0.pdf
+- **SHA-256:** `63bb9d26d7e36ed63c4931ebec75c110e44609696e087935108a3ce12398783f`
 - **Signed manifest:** [MANIFEST-1.0.txt.asc](MANIFEST-1.0.txt.asc)
 
 ## How to verify
